@@ -16,3 +16,14 @@ Football teaches **cooperation and team work**, helps develop positive **social 
 * Napoli
 
 [About Myself](AboutMe.md)
+
+---
+### Countries that i recommend to visit
+
+Below are the countries that i would recommend someone to visit where you can explore the food, culture, climate.
+
+| Country | Reason | Days to spend |
+| --- | --- | --- |
+| India | My Place | 365 |
+| Canada | Snow | 50 |
+| Srilanka | Adventure | 75 |
