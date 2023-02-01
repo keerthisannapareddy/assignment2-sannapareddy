@@ -27,3 +27,11 @@ Below are the countries that i would recommend someone to visit where you can ex
 | India | My Place | 365 |
 | Canada | Snow | 50 |
 | Srilanka | Adventure | 75 |
+
+---
+### Funny Quotes
+> Friends buy you food. Best friends eat your food.
+<br> ~ *John*
+
+> Lazy people fact #2347827309018287. You were too lazy to read that number
+<br> ~ *Rock*
